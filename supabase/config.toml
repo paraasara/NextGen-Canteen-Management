@@ -1,0 +1,5 @@
+
+project_id = "rfcusngoutymilmpilez"
+
+[functions.generate-menu-image]
+verify_jwt = false
